@@ -18,7 +18,6 @@ https://user-images.githubusercontent.com/33588728/132603122-82620580-f3b7-441f-
 ### Dependencies
 
 - Fabric Loader
-
 - Fabric API
 
 Grab a .jar from [releases](https://github.com/George-lewis/AutoSmelt/releases) and drop it in the mods folder
