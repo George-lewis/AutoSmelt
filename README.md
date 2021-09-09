@@ -11,7 +11,7 @@ Adds a new enchantment to Minecraft called "Smelting". The enchantment applies t
 
 ## Video
 
-https://github.com/George-lewis/AutoSmelt/blob/master/demo.mkv
+https://user-images.githubusercontent.com/33588728/132603122-82620580-f3b7-441f-9b02-357ca6d3e342.mp4
 
 ## Installation
 
