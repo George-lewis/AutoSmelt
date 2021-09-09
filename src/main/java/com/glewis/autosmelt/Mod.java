@@ -7,11 +7,11 @@ import net.minecraft.util.registry.Registry;
 
 public class Mod implements ModInitializer {
 
-	public static Enchantment SMELTING = Registry.register(
-            Registry.ENCHANTMENT,
-            new Identifier("autosmelt", "smelting"),
-            new SmeltingEnchantment()
-    );
+	public static final Enchantment SMELTING = Registry.register(
+		Registry.ENCHANTMENT,
+		new Identifier("autosmelt", "smelting"),
+		new SmeltingEnchantment()
+	);
 
 	@Override
 	public void onInitialize() {
